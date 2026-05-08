@@ -10,10 +10,23 @@ To write a Python program that calculates the **area of a circle** based on the 
    Area = pi *r^2 
 4. **Execute the program**: Create an object of the class and call the method with the radius value.
 
-## 🧾 Program
+## 🧾 Programradius = float(input("Enter the radius: "))
+```
+class cse:
+    def mech(self, r):
+        pi = 3.14159
+        area = pi * r * r
+        print("Area of the circle:", area)
 
-Add code here
+obj = cse()
+obj.mech(radius)
+
+```
+
 
 ## Output
+<img width="519" height="199" alt="image" src="https://github.com/user-attachments/assets/037266ac-c54c-428c-a69a-07642688c2f0" />
+
 
 ## Result
+The given program was executed successfully.
